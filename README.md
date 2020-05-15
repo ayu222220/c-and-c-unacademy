@@ -1,2 +1,2 @@
-# c-and-c-unschool
+# c-and-c++ unschool
 Assignment
