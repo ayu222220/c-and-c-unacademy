@@ -1,2 +1,2 @@
-# c-and-c-unacademy
+# c-and-c-unschool
 Assignment
